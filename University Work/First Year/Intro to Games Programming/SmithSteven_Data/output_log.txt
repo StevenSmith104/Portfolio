@@ -1,0 +1,60 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Respawn already registered
+ 
+(Filename:  Line: 66)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.234 seconds
+desktop: 2560x1440 85Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 0.149700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 709.
+Total: 9.562400 ms (FindLiveObjects: 0.012000 ms CreateObjectMapping: 0.005900 ms MarkObjects: 0.055400 ms  DeleteObjects: 9.099100 ms)
+
+Platform assembly: D:\University Work\First Year\SmithSteven IntGP1 Assignment\SmithSteven_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnTrigger.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SpawnTrigger.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.738200 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 10.328400 ms (FindLiveObjects: 0.004900 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.038100 ms  DeleteObjects: 9.913400 ms)
+
+UnloadTime: 0.147100 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 11.618100 ms (FindLiveObjects: 0.003800 ms CreateObjectMapping: 0.004300 ms MarkObjects: 0.044400 ms  DeleteObjects: 11.216000 ms)
+
