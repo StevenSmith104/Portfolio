@@ -1,0 +1,72 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+desktop: 2560x1440 85Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\University Work\First Year\IntegratedProject1\IP1Exe_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.018100 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 228.
+Total: 6.680500 ms (FindLiveObjects: 0.006800 ms CreateObjectMapping: 0.004600 ms MarkObjects: 0.069300 ms  DeleteObjects: 6.233800 ms)
+
+UnloadTime: 0.389000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 9.509100 ms (FindLiveObjects: 0.004400 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.068200 ms  DeleteObjects: 9.094000 ms)
+
+UnloadTime: 0.253200 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 997.
+Total: 3.721400 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.257700 ms  DeleteObjects: 3.027800 ms)
+
+UnloadTime: 0.621000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 1013.
+Total: 3.718100 ms (FindLiveObjects: 0.022400 ms CreateObjectMapping: 0.009900 ms MarkObjects: 0.251300 ms  DeleteObjects: 3.074400 ms)
+
+Show Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.671000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 993.
+Total: 8.830400 ms (FindLiveObjects: 0.025700 ms CreateObjectMapping: 0.010300 ms MarkObjects: 0.236400 ms  DeleteObjects: 8.195200 ms)
+
+UnloadTime: 0.691100 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 3.103000 ms (FindLiveObjects: 0.007200 ms CreateObjectMapping: 0.008200 ms MarkObjects: 0.119400 ms  DeleteObjects: 2.610600 ms)
+
+UnloadTime: 0.218600 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 8.852900 ms (FindLiveObjects: 0.005600 ms CreateObjectMapping: 0.005700 ms MarkObjects: 0.120300 ms  DeleteObjects: 8.361100 ms)
+
