@@ -1,0 +1,56 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Steven\Desktop\GameAICourseworkStevenSmith\Windows Build\GameAICourseworkExe_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.678138 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d84 -> priority: 1 
+  Thread -> id: 1680 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.860745 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.205032 ms (FindLiveObjects: 0.021914 ms CreateObjectMapping: 0.040526 ms MarkObjects: 0.135988 ms  DeleteObjects: 0.005703 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.819230 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.267773 ms (FindLiveObjects: 0.018912 ms CreateObjectMapping: 0.030319 ms MarkObjects: 0.152798 ms  DeleteObjects: 0.065142 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343722 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.196627 ms (FindLiveObjects: 0.022814 ms CreateObjectMapping: 0.030319 ms MarkObjects: 0.137188 ms  DeleteObjects: 0.006003 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.851050 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.258167 ms (FindLiveObjects: 0.018311 ms CreateObjectMapping: 0.030319 ms MarkObjects: 0.148896 ms  DeleteObjects: 0.060038 ms)
+
