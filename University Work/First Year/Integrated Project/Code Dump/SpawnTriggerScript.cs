@@ -4,10 +4,6 @@ using System.Collections;
 public class SpawnTriggerScript : MonoBehaviour {
 	public SpawnScript spawnScript;   // Selects the which spawn script
 
-	// Use this for initialization
-	void Start () {
-	
-	}
 	
 	// Update is called once per frame
 	void Update () {

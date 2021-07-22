@@ -1,19 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//A test script to spawn prefab agents when GUI buttons were pressed
 public class SpawnEnemy : MonoBehaviour {
 	public GameObject enemyPrefab1;
 	public GameObject enemyPrefab2;
 	public GameObject enemyPrefab3;
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
 	void SpawnSlow(){
 		

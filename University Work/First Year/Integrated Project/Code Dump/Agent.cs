@@ -10,11 +10,9 @@ public class Agent : MonoBehaviour {
 	public float rotSpeed = 10f;
 	private int currentNodeID = 0;
 	
-	void Start () {
-		
-	}
 	
 	void Update () {
+		//Handles the moving of the agent as they travel from node to node
 		Vector3 dest = path.GetNodePos (currentNodeID);
 		Vector3 offset = dest - transform.position;
 		if (offset.sqrMagnitude > reachDistance) {
@@ -29,6 +27,7 @@ public class Agent : MonoBehaviour {
 	}
 	
 	void ChangeDestNode(){
+		//Moves the agent onto the next node
 		currentNodeID++;
 		if(currentNodeID >= path.nodes.Length){
 			currentNodeID = 0;
@@ -36,6 +35,7 @@ public class Agent : MonoBehaviour {
 	}
 	
 	void OnDrawGizmos() {
+		//Used for debugging
 		if (drawGizmos) {
 			Gizmos.color = Color.red;
 			Gizmos.DrawLine(transform.position, path.GetNodePos (currentNodeID));
