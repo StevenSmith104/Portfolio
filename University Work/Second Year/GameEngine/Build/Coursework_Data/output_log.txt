@@ -1,0 +1,63 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+desktop: 2560x1440 85Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.816700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 243.
+Total: 0.471400 ms (FindLiveObjects: 0.007000 ms CreateObjectMapping: 0.005000 ms MarkObjects: 0.079000 ms  DeleteObjects: 0.001900 ms)
+
+Platform assembly: D:\University Work\Second Year\GameEngine\SmithStevenWorkingWithGameEngines\Build\Coursework_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 0.656700 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.447900 ms (FindLiveObjects: 0.004200 ms CreateObjectMapping: 0.005000 ms MarkObjects: 0.083800 ms  DeleteObjects: 0.015700 ms)
+
+UnloadTime: 0.216900 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 252.
+Total: 0.494600 ms (FindLiveObjects: 0.004900 ms CreateObjectMapping: 0.004800 ms MarkObjects: 0.097000 ms  DeleteObjects: 0.001500 ms)
+
+UnloadTime: 0.265600 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.487000 ms (FindLiveObjects: 0.004300 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.080000 ms  DeleteObjects: 0.022700 ms)
+
+UnloadTime: 0.189000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.492100 ms (FindLiveObjects: 0.008300 ms CreateObjectMapping: 0.006000 ms MarkObjects: 0.123200 ms  DeleteObjects: 0.001500 ms)
+
+UnloadTime: 0.591900 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.496000 ms (FindLiveObjects: 0.004300 ms CreateObjectMapping: 0.004700 ms MarkObjects: 0.082600 ms  DeleteObjects: 0.050100 ms)
+
