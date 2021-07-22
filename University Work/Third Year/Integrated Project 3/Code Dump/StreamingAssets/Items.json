@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "title": "Water",
+    "value": 5,
+    "description":"A large container of water",
+    "stackable":false,
+    "slug": "waterInventory"
+
+  },
+  {
+    "id": 1,
+    "title": "Sandbags",
+    "value": 10,
+    "description":"A large pile of sandbags",
+    "stackable":false,
+    "slug": "sandbagsInventory"
+  },
+  {
+    "id": 2,
+    "title": "Wall Parts",
+    "value": 100,
+    "description":"Parts to be used in fixing the flood gate",
+    "stackable":false,
+    "slug": "blocksInventory"
+  },
+  {
+    "id": 3,
+    "title": "Package",
+    "value": 2,
+    "description":"A small package to be delivered to the floating houses",
+    "stackable":false,
+    "slug": "packageInventory"
+  },
+  {
+    "id": 4,
+    "title": "Toolkit",
+    "value": 40,
+    "description":"A toolkit that could be used in fixing the faulty rain collector",
+    "stackable":false,
+    "slug": "toolkitInventory"
+  },
+  {
+    "id": 5,
+    "title": "Newspaper",
+    "value": 40,
+    "description":"A newspaper detailing current events",
+    "stackable":false,
+    "slug": "newspaperInventory"
+  },
+  {
+     "id": 6,
+    "title": "Spade",
+    "value": 40,
+    "description":"Spade, duh",
+    "stackable":false,
+    "slug": "spadeInventory"
+  }
+]

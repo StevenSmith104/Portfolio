@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "inactiveSpeech": "",
+	"activeSpeech": "Here are your daily supplies dude. Heard the Rain Harvesting machine on top of the building across from the Booth is broken, you should have a look at it later on after work. See you tomorrow!",
+	"activeSpeech2": "You'd better hurry to work, don't want to be late."
+
+  },
+  {
+    "id": 1,
+    "inactiveSpeech": "You're not due in at work yet",
+	"activeSpeech": "You are Late!! Never mind, just don't be late next time. Can you collect the wall parts from the booth and the sandbags from storage which is across from the booth then report back to me to start working on the flood gate",
+	"activeSpeech2": "Have you delivered that package yet?"
+  },
+  {
+    "id": 2,
+   "inactiveSpeech": "Hi there, I'm waiting on a package arriving",
+	"activeSpeech": "Is that my package? Thank you so much, I heard you've been having trouble with the rain harvesting machine, you can borrow my toolkit",
+	"activeSpeech2": "Have you fixed the rain water collector yet?"
+  },
+  {
+    "id": 3,
+    "inactiveSpeech": "I'm waiting on a delivery of wall parts.",
+	"activeSpeech": "Here are the wall parts that were delivered today! The sandbags you are looking for are in the storage across from us. Be careful, got a leak into the cellar the other day, the stairs may not be stable.  ",
+	"activeSpeech2": "Can't believe my stairs collapsed, thanks for building an alternative way of getting down!"
+  },
+  {
+    "id": 4,
+    "inactiveSpeech": "Looks like the next flood is going to be a bad one",
+	"activeSpeech": "Job done! Good work! As a final task can you deliver this package to Mr Van Der Sar at the floating houses please?",
+	"activeSpeech2": "Be sure to be ready bright and early tomorrow!"
+  },
+  {
+    "id": 5,
+   "inactiveSpeech": "Some Dank Kush in this city",
+	"activeSpeech": "Secondary text",
+	"activeSpeech2": "Test again"
+  },
+  {
+    "id": 6,
+    "inactiveSpeech": "Hi this is a test",
+	"activeSpeech": "Secondary text",
+	"activeSpeech2": "Test again"
+  }
+]
